@@ -10,6 +10,8 @@ Where is the files and info for the HTML&amp;CSS and Github workshop I held at C
   - Make an account at https://github.com/
   - Sign in, make a repository
   - Download Github for Mac/Windows depending on your OS, sign in
+      https://mac.github.com/
+      https://windows.github.com/
   - Clone the repository that you made
   
 3. Open that folder from Brackets
